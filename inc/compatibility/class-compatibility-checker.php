@@ -16,7 +16,7 @@ class Compatibility_Checker {
 	 *
 	 * @var string
 	 */
-	const MINIMUM_PHP_VERSION = '5.4';
+	const MINIMUM_PHP_VERSION = '7.1';
 
 	/**
 	 * Minimum WordPress version.
