@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ruleset name="Chance Digital">
+	<!-- Use Chance Digital Coding Standards -->
+	<rule ref="vendor/chancedigital/wp-coding-standards" />
+</ruleset>

@@ -1,0 +1,12 @@
+{
+  "name": "chancedigital/chancedigital-post-types",
+  "description": "Custom post types.",
+  "keywords": ["wordpress"],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.0",
+    "cedaro/wp-plugin": "^0.3.0",
+    "jjgrainger/posttypes": "^2.0",
+    "chancedigital/wp-coding-standards": "^0.1.4"
+  }
+}
